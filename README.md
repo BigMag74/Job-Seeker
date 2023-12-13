@@ -24,7 +24,7 @@ hhAccessToken=my_access_token
 попадут в специальный объект, который называется `BuildConfig`. Подробнее про этот объект можно почитать
 в [документации](https://developer.android.com/build/gradle-tips#share-custom-fields-and-resource-values-with-your-app-code).
 
-# Техническое задание
+# Возможноости приложения
 
 Приложение предоставляет следующую функциональность:
 
